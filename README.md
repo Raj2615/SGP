@@ -16,8 +16,11 @@ It can recognize the following poses:
    cd SGP
 
 2. Install dependencies:
-   pip install -r requirements.txt
+   !pip install mediapipe opencv-python numpy
+   pip install opencv-python
+   pip install mediapipe
 
-3. Run the project:
-   python .py
+
+4. Run the project:
+   script .py
 
