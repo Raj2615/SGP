@@ -12,12 +12,15 @@ It can recognize the following poses:
 
 ## 📌 Installation
 1. Clone this repository:
-   git clone https://github.com/yourusername/Head_Hand_Pose_Detection.git
-   cd Head_Hand_Pose_Detection
+   git clone https://github.com/Raj2615/SGP.git
+   cd SGP
 
 2. Install dependencies:
-   pip install -r requirements.txt
+   !pip install mediapipe opencv-python numpy
+   pip install opencv-python
+   pip install mediapipe
 
-3. Run the project:
-   python .py
+
+4. Run the project:
+   script .py
 
