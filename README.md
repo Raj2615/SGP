@@ -22,5 +22,5 @@ It can recognize the following poses:
 
 
 4. Run the project:
-   script .py
+   s.ipynb
 
